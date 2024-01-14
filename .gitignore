@@ -1,0 +1,8 @@
+backup/
+lib/
+fugue-16px-additional-icons-2-by-yusuke-kamiyamane/
+*.exe
+*.dbg
+*.ico
+*.png
+*.ini
